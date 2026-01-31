@@ -18,7 +18,7 @@ export default function Home() {
         <div className="hero-content">
           <p className="hero-subtitle">Coastal Dining Experience</p>
           <h1 className="hero-title">
-            Where the Sea <span>Meets</span> the Plate
+            Where the Sea <span>Meets</span> the Plate updated
           </h1>
           <p className="hero-description">
             Fresh catches, timeless recipes, and an atmosphere that captures the essence of waterfront dining.

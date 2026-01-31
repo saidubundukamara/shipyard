@@ -10,6 +10,7 @@
 services:
   server:
     container_name: shipyard
+    image: saidubundukamara/shipyard:latest
     build:
       context: .
     environment:
